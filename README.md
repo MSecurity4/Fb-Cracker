@@ -25,5 +25,5 @@ This Tool Using By Facebook Hacking
 # Use 
 1] Kali Linux
 2] Ubuntu 20.4
-3] Termux
+                                                                                                                                                                  3] Termux
 
